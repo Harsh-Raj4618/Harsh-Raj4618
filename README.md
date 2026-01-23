@@ -1,19 +1,26 @@
+<!-- ================= CAPSULE HEADER ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0B1220,100:16A34A&text=Harsh%20Raj&fontSize=44&fontColor=ffffff&animation=twinkling&fontAlignY=32&desc=Full%20Stack%20Developer%20%7C%20ML%20%26%20AI%20Enthusiast&descSize=18&descAlignY=55" />
+</div>
+
 <!-- ================= HERO SECTION ================= -->
 <div align="center">
+
+<!-- Resume Button (Top Right Illusion) -->
 <div align="right">
   <a href="https://example.com/your-resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-22C55E?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
+    <img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
   </a>
 </div>
 
 <h1>Hi 👋, I'm Harsh Raj</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=22C55E&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;ML+%26+AI+Enthusiast;Building+Scalable+Applications;Open+to+Internships+%26+Full-Time+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=16A34A&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;ML+%26+AI+Enthusiast;Building+Scalable+Applications;Open+to+Internships+%26+Full-Time+Roles" />
 
 <br/>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Harsh-Raj4618&label=Profile+Views&color=22C55E&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=Harsh-Raj4618&label=Profile+Views&color=16A34A&style=flat" />
 
 <br/><br/>
 
@@ -21,10 +28,8 @@
   <img src="https://img.shields.io/badge/GitHub-22C55E?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
 <a href="https://www.linkedin.com/in/harsh-raj-102220374">
-  <img src="https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-
 <a href="https://x.com/Harsh_Raj4618">
   <img src="https://img.shields.io/badge/X-22C55E?style=for-the-badge&logo=x&logoColor=black"/>
 </a>
@@ -32,7 +37,7 @@
   <img src="https://img.shields.io/badge/Instagram-22C55E?style=for-the-badge&logo=instagram&logoColor=black"/>
 </a>
 <a href="https://your-website.com">
-  <img src="https://img.shields.io/badge/Website-22C55E?style=for-the-badge&logo=googlechrome&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Website-22C55E?style=for-the-badge&logo=vercel&logoColor=black"/>
 </a>
 <a href="mailto:raj.harsh4618@gmail.com">
   <img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=black"/>
