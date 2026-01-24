@@ -32,7 +32,7 @@
   <img src="https://img.shields.io/badge/Instagram-22C55E?style=for-the-badge&logo=instagram&logoColor=black"/>
 </a>
 <a href="https://your-website.com">
-  <img src="https://img.shields.io/badge/Website-22C55E?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Website-22C55E?style=for-the-badge&logo=googlechrome&logoColor=black"/>
 </a>
 <a href="mailto:raj.harsh4618@gmail.com">
   <img src="https://img.shields.io/badge/Email-22C55E?style=for-the-badge&logo=gmail&logoColor=black"/>
