@@ -56,7 +56,7 @@ I’m a **Full-Stack Developer** focused on building **scalable, high-performanc
 
 ---
 
-## 🎯 What I Bring (Recruiter Snapshot)
+## 🎯 What I Bring
 
 - ✅ End-to-end **Full-Stack Development**
 - ✅ Scalable & maintainable **backend systems**
