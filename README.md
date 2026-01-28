@@ -10,7 +10,7 @@
 
 <h1>Hi 👋, I'm Harsh Raj</h1>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=16A34A&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;ML+%26+AI+Enthusiast;Building+Scalable+Applications;Open+to+Internships+%26+Full-Time+Roles" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=16A34A&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Scalable+Applications;Open+to+Internships+%26+Full-Time+Roles" />
 
 <br/>
 
