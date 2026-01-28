@@ -44,7 +44,7 @@
 
 ## 👨‍💻 About Me
 
-I’m a **Full-Stack Developer** focused on building **scalable, high-performance web applications** with clean architecture and intuitive user experiences.
+> I’m a **Full-Stack Developer** focused on building **scalable, high-performance web applications** with clean architecture and intuitive user experiences.
 
 - 🧠 Strong foundation in **DSA, System Design & Backend Engineering**
 - 🤖 Exploring **Machine Learning & Artificial Intelligence**
@@ -66,9 +66,9 @@ I’m a **Full-Stack Developer** focused on building **scalable, high-performanc
 > ⚡ *Still enjoys printing `"Hello, World!"` — curiosity drives growth.*
 
 ---
-
-## 🚀 Featured Projects
 <!--
+## 🚀 Featured Projects
+
 ### 🔹 Real-Time Chat Application
 **Tech:** React, Node.js, Socket.io, MongoDB  
 - 🚀 Handles **1,000+ real-time messages/day**
@@ -97,70 +97,13 @@ I’m a **Full-Stack Developer** focused on building **scalable, high-performanc
 
 🔗 *Repo:* `Coming Soon`
 -->
----
 
 ## 🧰 Tech Stack
+<div align="center">
 
-### 🧠 Languages
-![C++](https://img.shields.io/badge/C++-0B1220?style=for-the-badge&logo=c%2B%2B&logoColor=16A34A)
-![C](https://img.shields.io/badge/C-0B1220?style=for-the-badge&logo=c&logoColor=16A34A)
-![Python](https://img.shields.io/badge/Python-0B1220?style=for-the-badge&logo=python&logoColor=16A34A)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B1220?style=for-the-badge&logo=javascript&logoColor=16A34A)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B1220?style=for-the-badge&logo=typescript&logoColor=16A34A)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000) ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000000) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000000) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=000000) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
----
-
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-0B1220?style=for-the-badge&logo=html5&logoColor=16A34A)
-![React](https://img.shields.io/badge/React-0B1220?style=for-the-badge&logo=react&logoColor=16A34A)
-![Next.js](https://img.shields.io/badge/Next.js-0B1220?style=for-the-badge&logo=next.js&logoColor=16A34A)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0B1220?style=for-the-badge&logo=tailwind-css&logoColor=16A34A)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0B1220?style=for-the-badge&logo=bootstrap&logoColor=16A34A)
-
----
-
-### ⚙️ Backend & Realtime
-![Node.js](https://img.shields.io/badge/Node.js-0B1220?style=for-the-badge&logo=node.js&logoColor=16A34A)
-![Socket.io](https://img.shields.io/badge/Socket.io-0B1220?style=for-the-badge&logo=socket.io&logoColor=16A34A)
-![JWT](https://img.shields.io/badge/JWT-0B1220?style=for-the-badge&logo=jsonwebtokens&logoColor=16A34A)
-
----
-
-### 🗄️ Databases & Backend Services
-![MongoDB](https://img.shields.io/badge/MongoDB-0B1220?style=for-the-badge&logo=mongodb&logoColor=16A34A)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B1220?style=for-the-badge&logo=postgresql&logoColor=16A34A)
-![MySQL](https://img.shields.io/badge/MySQL-0B1220?style=for-the-badge&logo=mysql&logoColor=16A34A)
-![SQLite](https://img.shields.io/badge/SQLite-0B1220?style=for-the-badge&logo=sqlite&logoColor=16A34A)
-![Firebase](https://img.shields.io/badge/Firebase-0B1220?style=for-the-badge&logo=firebase&logoColor=16A34A)
-
----
-
-### 🤖 Machine Learning & Data Science
-![NumPy](https://img.shields.io/badge/NumPy-0B1220?style=for-the-badge&logo=numpy&logoColor=16A34A)
-![Pandas](https://img.shields.io/badge/Pandas-0B1220?style=for-the-badge&logo=pandas&logoColor=16A34A)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0B1220?style=for-the-badge&logo=matplotlib&logoColor=16A34A)
-![SciPy](https://img.shields.io/badge/SciPy-0B1220?style=for-the-badge&logo=scipy&logoColor=16A34A)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0B1220?style=for-the-badge&logo=scikit-learn&logoColor=16A34A)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0B1220?style=for-the-badge&logo=tensorflow&logoColor=16A34A)
-![PyTorch](https://img.shields.io/badge/PyTorch-0B1220?style=for-the-badge&logo=pytorch&logoColor=16A34A)
-
----
-
-### 🎨 UI / Design & Tools
-![Figma](https://img.shields.io/badge/Figma-0B1220?style=for-the-badge&logo=figma&logoColor=16A34A)
-![Canva](https://img.shields.io/badge/Canva-0B1220?style=for-the-badge&logo=canva&logoColor=16A34A)
-![Adobe](https://img.shields.io/badge/Adobe-0B1220?style=for-the-badge&logo=adobe&logoColor=16A34A)
-
----
-
-### 🧪 VCS & Environment
-![Git](https://img.shields.io/badge/Git-0B1220?style=for-the-badge&logo=git&logoColor=16A34A)
-![GitHub](https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=16A34A)
-![GitLab](https://img.shields.io/badge/GitLab-0B1220?style=for-the-badge&logo=gitlab&logoColor=16A34A)
-![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-0B1220?style=for-the-badge&logo=windows-terminal&logoColor=16A34A)
-
-
-
+</div>
 
 
 ---
@@ -174,6 +117,13 @@ I’m a **Full-Stack Developer** focused on building **scalable, high-performanc
 <img src="https://nirzak-streak-stats.vercel.app/?user=Harsh-Raj4618&theme=github-dark&hide_border=true" />
 <br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-Raj4618&layout=compact&theme=github_dark&hide_border=true" />
+<br>
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Raj4618&theme=tokyonight&hide_border=true&bg_color=0D1117&color=6366f1&line=a855f7&point=ec4899&_cb=1769568962462)](https://github.com/Harsh-Raj4618
+)
+
+</div>
 
 </div>
 
