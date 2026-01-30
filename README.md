@@ -25,6 +25,9 @@
 <a href="https://x.com/Harsh_Raj4618">
   <img src="https://img.shields.io/badge/X-22C55E?style=for-the-badge&logo=x&logoColor=black"/>
 </a>
+<a href="https://hashnode.com/@RajHarsh4618">
+  <img src="https://img.shields.io/badge/Hashnode-22C55E?style=for-the-badge&logo=hashnode&logoColor=black"/>
+</a>
 <a href="https://your-website.com"> 
   <img src="https://img.shields.io/badge/Website-22C55E?style=for-the-badge&logo=googlechrome&logoColor=black"/> 
 </a>
