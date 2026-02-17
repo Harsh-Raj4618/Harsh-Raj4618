@@ -1,23 +1,35 @@
+<!-- ================= BANNER ================= -->
+<div align="center" style="border:2px solid #16A34A; box-shadow: 0 0 25px #16A34A; border-radius:12px; padding:8px; margin-bottom:16px;">
+  <img alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+</div>
+
 <!-- ================= HERO SECTION ================= -->
 <div align="center">
 
 <!-- Resume Button -->
+<div align="left">
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=Harsh-Raj4618&label=Profile+Views&color=16A34A&style=flat" />
+</div>
+
+
+<!-- Resume Button -->
 <div align="right">
   <a href="https://example.com/your-resume.pdf">
-    <img src="https://img.shields.io/badge/Resume-Download-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
+<img src="https://img.shields.io/badge/CV-Download-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
+
   </a>
 </div>
 
-<h1>Hi 👋, I'm Harsh Raj</h1>
+<h1>Hi, I'm Harsh Raj</h1>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&pause=800&color=16A34A&center=true&vCenter=true&width=780&lines=Full-Stack+Developer;AI+%26+ML+Enthusiast;Building+Scalable+Applications;Open+to+Internships+%26+Full-Time+Roles" />
 
 <br/>
 
 <!-- Profile Views -->
-<img src="https://komarev.com/ghpvc/?username=Harsh-Raj4618&label=Profile+Views&color=16A34A&style=flat" />
 
-<br/><br/>
+<br/>
 
 <a href="https://linkedin.com/in/rajharsh03">
   <img src="https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=white"/>
