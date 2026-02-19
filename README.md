@@ -134,16 +134,16 @@
 
 <div align="center">
 
-![Followers](https://img.shields.io/github/followers/Harsh-Raj4618?label=Followers&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/RajHarsh03?label=Followers&style=for-the-badge)
 
-![Stars](https://img.shields.io/github/stars/Harsh-Raj4618?label=Total%20Stars&style=for-the-badge)
+![Stars](https://img.shields.io/github/stars/RajHarsh03?label=Total%20Stars&style=for-the-badge)
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=Harsh-Raj4618&theme=github-dark&hide_border=true" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=RajHarsh03&theme=github-dark&hide_border=true" />
 
 <br/>
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Harsh-Raj4618&theme=tokyonight&hide_border=true&bg_color=0D1117&color=6366f1&line=a855f7&point=ec4899&_cb=1769568962462)](https://github.com/Harsh-Raj4618)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RajHarsh03&theme=tokyonight&hide_border=true&bg_color=0D1117&color=6366f1&line=a855f7&point=ec4899&_cb=1769568962462)](https://github.com/Harsh-Raj4618)
 
 </div>
 </div>
