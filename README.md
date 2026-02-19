@@ -5,7 +5,7 @@
    <br/>
   <img align="left" src="https://komarev.com/ghpvc/?username=Harsh-Raj4618&label=Profile+Views&color=16A34A&style=flat-square" alt="Profile Views" />
 
-  <a href="https://example.com/your-resume.pdf" target="_blank">
+  <a href="https://example.com/your-resume.pdf" target="_blank ">
     <img align="right" src="https://img.shields.io/badge/CV-Download-16A34A?style=for-the-badge&logo=adobeacrobatreader&logoColor=black" alt="Download CV" />
   </a>
 
