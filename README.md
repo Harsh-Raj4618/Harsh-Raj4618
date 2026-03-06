@@ -138,8 +138,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="75%" />
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=16A34A&height=100&section=footer&animation=fadeIn" width="100%" />
 </div>
